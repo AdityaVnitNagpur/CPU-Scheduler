@@ -64,7 +64,7 @@ export default function Home() {
       </Main>
 
       <Footer className="container">
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/AdityaVnitNagpur/CPU-Scheduler/tree/main" target="_blank" rel="noopener noreferrer">
           <FaGithub/>GitHub</a>
       </Footer>
     </div>
