@@ -3,6 +3,7 @@
 Process Scheduling Algorithms is one of the most important topic in Concepts of Opearting Systems.  
 
 **CPU Scheduler** is a NextJS application built using **typescript** which implements and helps the user to solve following Process Scheduling algorithms:  
+
 *1.First Come First Serve (FCFS)  
 2.Shortest Job First (SJF)  
 3.Shortest Remaining Time First (SRTF)
